@@ -327,6 +327,7 @@ bunx wrangler secret put VALID_API_KEYS
 
 # Deploy
 bun run deploy
+bunx wrangler deploy
 ```
 
 #### Deploy Updates
