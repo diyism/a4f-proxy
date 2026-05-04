@@ -342,10 +342,11 @@ function validateUserApiKey(userKey: string, validKeysString: string): boolean {
 }
 
 function validateModel(model: string): { valid: boolean; error?: string } {
-  if (!model.includes("claude")) {
+  // Allow any model for Workers AI compatibility
+  if (!model || model.trim() === "") {
     return {
       valid: false,
-      error: `Model "${model}" is not a Claude model. Only Claude models are supported.`,
+      error: "Model name is required.",
     };
   }
   return { valid: true };
