@@ -7,8 +7,8 @@
     turn nvidia ai into claude api:
     https://github.com/diyism/claude-nvidia-proxy
 
-    turn any ai into openai api:
-    https://github.com/diyism/bifrost
+    turn nvidia ai into openai api or claude api:
+    https://github.com/diyism/litellm
     
 
 # Devkit Anthropic Proxy
