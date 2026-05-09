@@ -1,5 +1,9 @@
-    turn cloudflare cloud ai into claude api:
+    turn cloudflare ai into claude api:
     https://github.com/diyism/a4f-proxy#initial-setup
+
+    turn ollama cloud ai into claude api:
+    https://github.com/diyism/olloud-proxy/
+    
 
 # Devkit Anthropic Proxy
 
