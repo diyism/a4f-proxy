@@ -3,6 +3,9 @@
 
     turn ollama cloud ai into claude api:
     https://github.com/diyism/olloud-proxy/
+
+    turn nvidia ai into claude api:
+    https://github.com/diyism/claude-nvidia-proxy
     
 
 # Devkit Anthropic Proxy
