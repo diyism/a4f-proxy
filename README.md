@@ -1,3 +1,6 @@
+    turn cloudflare cloud ai into claude api:
+    https://github.com/diyism/a4f-proxy#initial-setup
+
 # Devkit Anthropic Proxy
 
 A CloudFlare Worker that proxies multiple API formats to A4F's API gateway, enabling tools like Roo Code, Cline, and other AI clients to work seamlessly with A4F's backend.
